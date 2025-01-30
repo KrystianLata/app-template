@@ -4,7 +4,7 @@ A  FastAPI project template with Docker support.
 
 ## Project Structure
 
-
+```
 ├── app/                      # Main application package
 │   ├── __init__.py
 │   ├── main.py              # FastAPI application instance and configurations
@@ -31,7 +31,7 @@ A  FastAPI project template with Docker support.
 ├── Dockerfile        # Docker build instructions
 ├── requirements.txt  # Python dependencies
 └── README.md        # This file
-
+```
 
 ## Key Components
 
